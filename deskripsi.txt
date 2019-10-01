@@ -1,0 +1,6 @@
+dari tutorial yang pernah saya ikuti di salah satu channel pemograman, saya kembangkan untuk membuat sebuah 
+aplikasi inventory barang produksi di salah satu perusahan di percetakan.
+samapi saat ini aplikasi yang saya buat terus di kembangkan.
+sehingga saya menganbil keputusan untuk menyimpan di repository git,
+selain untuk pembelajaran saya kedepan, aplikasi ini tidak sempurna.
+untuk itu saya berharap kedepannya dapat dikembangkan lebih baik lagi sesuai kebutuhan perusahaan
